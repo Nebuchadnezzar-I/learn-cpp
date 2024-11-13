@@ -1,3 +1,3 @@
 # learn-cpp
 
-Quizes come form [here](https://www.learncpp.com/)
+Quizzes come from [here](https://www.learncpp.com/)
