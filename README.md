@@ -1,3 +1,3 @@
 # learn-cpp
 
-Quizes code form [here](https://www.learncpp.com/)
+Quizes come form [here](https://www.learncpp.com/)
