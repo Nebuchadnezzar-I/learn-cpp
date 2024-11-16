@@ -2,6 +2,7 @@ cmake_minimum_required(VERSION 3.10)
 project(RadeonOne)
 
 set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 # Set the path to your ANTLR runtime headers and libraries
 set(ANTLR_RUNTIME_INCLUDE_DIR /home/admiralcapo/antlr4/runtime/Cpp/runtime/src)
