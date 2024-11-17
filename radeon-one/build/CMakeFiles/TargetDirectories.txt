@@ -1,3 +1,0 @@
-/home/admiralcapo/personal/learn-cpp/radeon-one/build/CMakeFiles/RadeonOne.dir
-/home/admiralcapo/personal/learn-cpp/radeon-one/build/CMakeFiles/edit_cache.dir
-/home/admiralcapo/personal/learn-cpp/radeon-one/build/CMakeFiles/rebuild_cache.dir
